@@ -15,5 +15,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@testing-library/react": "^14.0.0",
+    "happy-dom": "^11.0.2",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.4"
   }
 }
